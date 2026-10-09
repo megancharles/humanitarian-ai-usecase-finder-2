@@ -1,0 +1,29 @@
+# Model used for extraction. "claude-haiku-4-5" is the current Haiku model
+# (fast and cheap, which fits a one-call-per-report extraction job).
+model: "claude-haiku-4-5"
+
+paths:
+  reports_dir: "data/reports"
+  catalogue: "data/catalogue.csv"
+  output_dir: "data/output"
+  cache_dir: "data/cache"
+
+# Existing tools the LLM should compare new ideas against when judging novelty.
+# Keep descriptions to one line - they go straight into the extraction prompt.
+known_tools:
+  - name: "DISHA Building Damage Assessment"
+    description: "AI model that classifies building damage from post-disaster satellite imagery."
+  - name: "DISHA Population Displacement Insights"
+    description: "Estimates population displacement patterns from anonymized mobile network data."
+  - name: "WFP mVAM"
+    description: "Remote food security and vulnerability monitoring via SMS and voice call surveys."
+  - name: "UNHCR RAIS"
+    description: "Biometric registration and case management system for refugees and asylum seekers."
+  - name: "IFRC GO Platform"
+    description: "Early-warning and situational-awareness dashboard aggregating hazard and response data."
+  - name: "UNOSAT Rapid Mapping"
+    description: "Satellite image analysis service producing rapid damage and flood-extent maps during disasters."
+  - name: "Google Flood Hub"
+    description: "Machine-learning river flood forecasting and public alerts."
+  - name: "CLEAR Global Language Support"
+    description: "Terminology glossaries and translation support tools for crisis response communication."

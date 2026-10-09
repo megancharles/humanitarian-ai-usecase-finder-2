@@ -1,0 +1,19 @@
+name,description,data_type,coverage,resolution,timeliness,access,access_route,licence,url,verified
+WorldPop,Modelled gridded population estimates and demographic breakdowns.,geospatial,3,2,1,3,Open download,CC BY 4.0,https://www.worldpop.org/,FALSE
+GHSL,Global Human Settlement Layer - built-up area and population grids from satellite imagery.,geospatial,3,2,1,3,Open download,CC BY 4.0,https://ghsl.jrc.ec.europa.eu/,FALSE
+Google Open Buildings,Building footprint polygons derived from high-resolution satellite imagery.,geospatial,2,3,1,3,Open download,CC BY 4.0,https://sites.research.google/open-buildings/,FALSE
+Microsoft Building Footprints,Building footprint polygons derived from satellite and aerial imagery.,geospatial,2,3,1,3,Open download,ODbL,https://github.com/microsoft/GlobalMLBuildingFootprints,FALSE
+OpenStreetMap,"Crowd-sourced vector map data covering roads, buildings, land use and points of interest.",geospatial,2,2,3,3,Open API / bulk download,ODbL,https://www.openstreetmap.org/,FALSE
+Sentinel-1,"Synthetic aperture radar (SAR) satellite imagery, usable through cloud cover.",geospatial,3,2,2,3,Open download via Copernicus,Copernicus open licence,https://sentinel.esa.int/web/sentinel/missions/sentinel-1,FALSE
+Sentinel-2,Multispectral optical satellite imagery at 10m resolution.,geospatial,3,2,2,3,Open download via Copernicus,Copernicus open licence,https://sentinel.esa.int/web/sentinel/missions/sentinel-2,FALSE
+Landsat,Multispectral optical satellite imagery with a multi-decade archive.,geospatial,3,1,1,3,Open download,Public domain,https://landsat.gsfc.nasa.gov/,FALSE
+GloFAS,Global Flood Awareness System - river discharge and flood forecasts.,geospatial,2,1,3,2,Open download via CEMS registration,Copernicus open licence,https://global-flood.emergency.copernicus.eu/,FALSE
+CHIRPS,Quasi-global gridded rainfall estimates blending satellite and station data.,geospatial,2,1,2,3,Open download,Public domain,https://www.chc.ucsb.edu/data/chirps,FALSE
+NASA FIRMS,Near real-time active fire and thermal anomaly detections from satellite sensors.,geospatial,3,1,3,3,Open API / download,Public domain,https://firms.modaps.eosdis.nasa.gov/,FALSE
+Copernicus EMS,Copernicus Emergency Management Service - activation-based rapid mapping products.,geospatial,1,3,2,2,Open download (on activation),Copernicus open licence,https://emergency.copernicus.eu/,FALSE
+Meta Data for Good,High-resolution population density and mobility datasets derived from Meta platform data.,geospatial,1,3,1,1,Request-based data sharing partnership,Custom data-sharing agreement,https://dataforgood.facebook.com/,FALSE
+GDACS,Global Disaster Alert and Coordination System - near real-time multi-hazard alerts.,tabular,3,1,3,3,Open API / RSS feed,Open,https://www.gdacs.org/,FALSE
+INFORM Risk Index,Composite country and subnational index of humanitarian crisis and disaster risk.,tabular,3,1,1,3,Open download,CC BY,https://drmkc.jrc.ec.europa.eu/inform-index,FALSE
+ReliefWeb reports,"Situation reports, appeals and assessments submitted by humanitarian organisations.",text,3,2,2,3,Open API / website,Open,https://reliefweb.int/,FALSE
+HDX HAPI,"Humanitarian API providing standardised, queryable humanitarian indicators from HDX datasets.",tabular,2,2,2,3,Open API,CC BY,https://hapi.humdata.org/,FALSE
+ACLED,"Event-level dataset of political violence and protest, including location and date.",geospatial,2,3,2,2,Free registration / paid for some uses,Custom licence,https://acleddata.com/,FALSE

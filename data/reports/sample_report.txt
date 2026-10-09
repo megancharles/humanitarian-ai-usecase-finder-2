@@ -1,0 +1,48 @@
+MOZ
+https://reliefweb.int/report/mozambique/sample-placeholder-situation-report
+MOZAMBIQUE FLOOD RESPONSE - SITUATION REPORT (PLACEHOLDER / SAMPLE DATA)
+
+Sector: Shelter, Health, WASH
+Location: Zambezia Province, including Mocuba and Morrumbala districts
+
+Overview
+Heavy rainfall over the past two weeks has caused the Licungo River to overflow
+its banks, displacing an estimated 18,000 people across Mocuba and Morrumbala
+districts. Access roads to several rural communities remain cut off, and
+responders report that they do not have reliable information on which villages
+are currently reachable by road versus only by boat. Field teams have not been
+able to confirm the current extent of flooding beyond what was last observed
+three days ago, and there is no up-to-date estimate of how many homes remain
+submerged.
+
+Health
+Three health posts in Morrumbala district have reported disruptions to
+operations due to flooding, but the district health office does not have a
+consolidated view of which facilities are still functional. There are also
+unconfirmed reports of a rise in diarrheal disease cases in displacement sites,
+but case numbers have not been systematically tracked, so the scale of the
+outbreak risk is unclear.
+
+Shelter and Camp Coordination
+Four spontaneous displacement sites have formed around Mocuba town. Site
+coordinators report overcrowding but do not have an accurate count of the
+population at each site, making it difficult to plan latrine and water point
+allocation. Partners have also noted that damage to permanent housing has not
+been systematically assessed since the flooding began; initial estimates are
+based only on visual observation from accessible roads, and there is no
+damage assessment for communities that remain cut off.
+
+Communication with Affected Communities
+Several community leaders have asked for a reliable channel to receive
+updates on flood forecasts and relocation guidance, noting that rumors are
+currently spreading faster than official information in affected
+communities, some of whom speak Portuguese and others local languages
+including Chuwabo and Sena.
+
+Logistics
+Partners report uncertainty about which secondary roads and bridges remain
+passable, which is delaying the positioning of relief supplies closer to
+affected districts.
+
+(This is placeholder sample text for testing the pipeline end-to-end. It does
+not describe a real event and should be replaced with real report text.)
